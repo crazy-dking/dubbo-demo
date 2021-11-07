@@ -1,0 +1,6 @@
+server:
+  port: 5292
+
+spring:
+  profiles:
+    include: dubbo

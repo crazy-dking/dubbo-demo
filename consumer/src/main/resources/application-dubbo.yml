@@ -1,0 +1,9 @@
+dubbo:
+  application:
+    name: consumer-demo
+  registry:
+    protocol: nacos
+    address: crazyk.com.cn:8848
+#  protocol:
+#    name: dubbo
+#    port: 28080
